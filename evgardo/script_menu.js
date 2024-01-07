@@ -1,7 +1,7 @@
 var menu = document.getElementById('menu')
 
 
-all_links = ['../numero1/pagina1.html', '../info.html', '../all.html']
+all_links = ['../numero1/pagina1.html', '../index.html', '../all.html']
 all_icons = ['full_coverage', 'alternate_email', 'newsstand']
 
 //LINKERS
